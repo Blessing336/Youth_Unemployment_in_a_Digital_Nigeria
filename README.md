@@ -1,6 +1,8 @@
 # Project Description
 
-Nigeria has one of the largest youth populations in the world, yet indicators suggest persistent challenges in translating education into sustainable employment. **[Intelpoint](https://intelpoint.co/blogs/nigerias-poverty-rate-trend-from1960-to-2024/)** tells us that poverty rate in 2023 (38.9%) has exceedeed the 2010's mark which was 34.9%, the **[GER](https://data.worldbank.org/indicator/SE.TER.ENRR?locations=NG)** (Gross Enrolment Rate) for tertiary education has also been on the rise since the 90s, and we then wonder that if the number of youths getting educated has been increasing and poverty rate is on the rise, what could be the issue?
+Nigeria has one of the largest youth populations in the world, yet indicators suggest persistent challenges in translating education into sustainable employment. 
+
+**[Intelpoint](https://intelpoint.co/blogs/nigerias-poverty-rate-trend-from1960-to-2024/)** tells us that poverty rate in 2023 (38.9%) has exceedeed the 2010's mark which was 34.9%, the **[GER](https://data.worldbank.org/indicator/SE.TER.ENRR?locations=NG)** (Gross Enrolment Rate) for tertiary education has also been on the rise since the 90s, and we then wonder that if the number of youths getting educated has been increasing and poverty rate is on the rise, what could be the issue?
 
 Concerns were raised that despite the steady increase in university and polytechnic enrolments, graduates continue to face significant barriers in securing meaningful employment. More recently, there has been a noticeable spike in graduate unemployment and underemployment, raising questions about whether current educational pathways are adequately aligned with labour market demands.
 
