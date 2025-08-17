@@ -27,11 +27,68 @@ Gross Enrolment Ratio data: [World Bank](https://data.worldbank.org/indicator/SE
 # Insights
 
 
+![Unemployment](https://github.com/Blessing336/Youth_Unemployment_in_a_Digital_Nigeria/blob/c2d71593819c541f7bfe08adbd6a21b32ca006cc/Resources/Unemployment_gif.gif)
+
+
+<br/>
+
+
+1. **Unemployment**
+
+    * **South East faces highest unemployment rate**:
+
+      Graduates in the South East not only struggle to find jobs but even when employed, they are more likely to be underpaid (47% underpaid vs. 35% unemployed).
+
+
+    * **ND holders face the harshest outcomes, at 50% unemployment rate**:
+
+      ND holders appear to be the most vulnerable group, caught between having less employability than Bachelor’s/HND graduates and lacking the practical skills of NCE holders. Their high unemployment + low compensation combination highlights a need to redesign polytechnic programmes to align with labour market needs.
+
+
+    * **Medicine leads in unemployment rate while Mass Communication ranks lowest**:
+
+      Medicine’s high unemployment may reflect oversupply of graduates relative to residency slots and public health job absorption. By contrast, Mass Communication graduates are more easily absorbed into the creative, media, and informal digital economy; a sector with high demand for communicators and creators.
+
+
+    * **Females and graduates in the 27–30 age group are most unemployed**:
+
+      Gender disparity in graduate employment is clear ie women face a higher barrier to entry and pay equity. The spike among the 27–30 group suggests that older graduates who delay entering the workforce (e.g., due to further studies or family responsibilities) struggle most to re-enter at competitive levels.
+
+<br/>
+
+2. **Skills**
+
+    * **Only 12% of graduates work in their field of study (all are NCE graduates currently employed as teachers)**:
+
+      Even when graduates are absorbed into employment, the pay distribution is skewed heavily towards underpaid roles. The fact that only NCE graduates manage to find direct employment in their trained sector (teaching) highlights how poorly Nigerian education pathways align with the labour market.
+
+    * **Although 44% have vocational skills, none is unemployed**:
+
+      Graduates with vocational skills were never unemployed, regardless of education level. However, many remain underpaid. Vocational skills clearly provide a safety net (they guarantee employment). But the downside is low pay. Employers are willing to absorb vocationally trained workers, yet they often occupy entry-level or semi-formal roles where compensation is suppressed.
+
+    * **The same for those with digital skills: 22% unemployed, none is unemployed with vocational skills**:
+
+      This mirrors the vocational story. Digital skills ensure employability (unemployment is zero across all levels). Digital skills offer even greater demand than vocational skills, although underemployment (low wages) persists across the board. **This points to the fact that the chances of being unemployed with having a vocational or digital skill is low**.
+
+<br/>
+
+# Conclusion
+
+Both vocational and digital graduates were never unemployed, proving that skills are the real determinant of employability. But the critical gap is in compensation and job quality.
+
+**Skills prevent joblessness**, but not exploitation.
+
+**Education alone (without skills) leaves graduates highly vulnerable to unemployment**.
+
+**Formal pathways (degrees without skills) are the most fragile**, while skills-based pathways guarantee entry but at low economic value.
 
 
 
 
 
+<br/>
+
+Go to my [github home page](https://github.com/Blessing336)
 
 
 
